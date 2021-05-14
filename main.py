@@ -1,5 +1,5 @@
 print("Hello,\n Welcome to Whatever Land!")
-print("==============================")
+print("=================================")
 
 ans1 = str(input("'How are you today?' \n HAPPY, ANGRY, CONFLICTED, GRACEFUL? "))
 
